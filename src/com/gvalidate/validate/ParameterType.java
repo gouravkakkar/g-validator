@@ -17,6 +17,7 @@ public class ParameterType {
 	String message;
 	
 	protected ParameterType(String name){
+		
 		this.regex=PropertyUtils.getProperty(name+".regex");
 		this.length=PropertyUtils.getProperty(name+".length");
 		this.code=PropertyUtils.getProperty(name+".code");
