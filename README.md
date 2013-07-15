@@ -6,7 +6,7 @@ A wrapper layer over web-application for validation of request parameters and cr
 Installation
 ===========
 
-You need g-validate.properties file on your classpath. It is provided with the source package. This file servers as a medium of input to the validation framework.
+You need g-validate.properties file on your classpath. It is provided with the source package. This file serves as a medium of input to the validation framework.
 
 Sample Usage
 ===========
