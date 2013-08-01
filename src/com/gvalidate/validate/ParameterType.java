@@ -1,14 +1,14 @@
 /**
- * 
+ * Copyright (c) 2013 Gourav Kakkar<gouravkakkar@gmail.com>
+ * See the file license.txt for copying permission.
  */
+ 
+ 
 package com.gvalidate.validate;
 
 import com.gvalidate.utils.*;
 
-/**
- * @author Gourav Kakkar
- *
- */
+
 public class ParameterType {
 
 	String regex;
