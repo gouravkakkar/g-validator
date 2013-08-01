@@ -1,10 +1,12 @@
+/**
+ * Copyright (c) 2013 Gourav Kakkar<gouravkakkar@gmail.com>
+ * See the file license.txt for copying permission.
+ */
+
 package com.gvalidate.validate;
 
 public class ValidationException extends RuntimeException{
-	/**
-	 * @author Gourav Kakkar
-	 *
-	 */
+	
 	private static final long serialVersionUID = 1L;
 	String code;
 	String message;
