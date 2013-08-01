@@ -1,13 +1,15 @@
+
+/**
+ * Copyright (c) 2013 Gourav Kakkar<gouravkakkar@gmail.com>
+ * See the file license.txt for copying permission.
+ */
+
 package com.gvalidate.utils;
 
 import java.util.Properties;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- * @author Gourav Kakkar
- * 
- */
 public class PropertyUtils {
 
 	static Properties instance = getInstance();
