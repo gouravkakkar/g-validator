@@ -1,3 +1,8 @@
+/**
+ * Copyright (c) 2013 Gourav Kakkar<gouravkakkar@gmail.com>
+ * See the file license.txt for copying permission.
+ */
+ 
 package com.gvalidate.validate;
 
 import java.util.HashMap;
@@ -6,14 +11,9 @@ import java.util.Map.Entry;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.Properties;
-
 import javax.servlet.http.HttpServletRequest;
-
 import com.gvalidate.utils.PropertyUtils;
-/**
- * @author Gourav Kakkar
- *
- */
+
 
 public class ParameterValidator {
 	
